@@ -1,6 +1,6 @@
 # Live-Streaming-Temperature
 
-This page containing a simple Arduino program for sensing a tempereture from atmosphere ::
+This page containing a simple Arduino program for sensing a temperature from atmosphere ::
 ------------------------------------------------------------------------------------------
 
 int val;
