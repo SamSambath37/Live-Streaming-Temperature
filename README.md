@@ -1,6 +1,6 @@
 # Live-Streaming-Temperature
 
-Here it's containing a simple Arduino program for sensing a temperature from atmosphere ::
+It is a simple Arduino program for receiving a temperature from atmosphere using LM35 (Temperature Sensore) & Arduino::
 ------------------------------------------------------------------------------------------
 
 int val;
